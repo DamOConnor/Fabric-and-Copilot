@@ -11,10 +11,13 @@
 
 ## 1. Create a Fabric workspace
 - Go to https://app.fabric.microsoft.com/ in your external subscription
-- Click on **Home**
-- Click on **Create new workspace**
--- 
-
+  - if this is your first time using Fabric you may have to sign in using your external subscription admin email
+  - if this is **not** your first time signing into Fabric you might see the Power BI icon instead
+- Click on the **Microsoft Fabric** icon in the bottom left-hand corner, then click **Power BI**:
+![Fabric Home](/images/fabrichome.png)
+- Click on **Workspaces** and then **New workspace**
+![New workspace](/images/newworkspace.png)
+- Name it
   - make sure it is connected to an **F64** or above Fabric 
 
 ## 2. Connect to lab repo
@@ -33,3 +36,7 @@
 
 ## Next
 [Lab 01 - Copilot for Data Factory](/labs/lab01/lab01.md)
+
+
+## Links
+- [Create a workspace](https://learn.microsoft.com/en-us/fabric/get-started/create-workspaces)

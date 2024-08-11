@@ -3,17 +3,19 @@
 ![Microsoft Azure](/images/azure.svg)
 ![Microsoft Fabric](/images/fabric.svg)
 
+These are the prerequisites for this lab:
 - External Azure Subscription
   - **NB** Fabric does **not** currently work in Microsoft Non-prod / fdpo subscriptions
 - Microsoft Fabric Capacity
   - see [this repo](https://github.com/DamOConnor/Fabric-IaC) if you do not already have a Fabric Capacity deployed
   - scaled to **F64**[^1]
 - budget to spend **~£130** for half-day Fabric F64 consumption
-
+- [Enable Copilot in Fabric](https://learn.microsoft.com/en-us/fabric/get-started/copilot-enable-fabric) if required
 
 > [!TIP]
 > Use [Microsoft Edge Profiles](https://www.microsoft.com/en-us/edge/learning-center/how-to-add-new-profiles?msockid=20f67ee92a346c49015f6f1a2e346a21&form=MA13I2) to manage external Azure subscriptions[^2]
 
+## Copilot integration
 ![Copilot Integration](/images/copilotintegration.png)
 
 ## Next

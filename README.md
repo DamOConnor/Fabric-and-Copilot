@@ -16,7 +16,7 @@ Labs for Fabric workloads and Copilot
 - [Lab 03 - Copilot for Data Warehouse](/labs/lab03/lab03.md)
 - ~~[Lab 04 - Copilot for Real-Time Intelligence]~~
 - [Lab 05 - Copilot for Power BI](/labs/lab05/lab05.md)
-- [Lab 06 - Copilot in Fabric consumption](/labs/lab06/lab06.md)
+- [Lab 06 - Monitor Copilot consumption in Fabric](/labs/lab06/lab06.md)
 - [Links](links//links.md)
 
 ## Introduction
@@ -46,7 +46,7 @@ The [Prerequisites](/prerequisites/prerequisites.md) and [Setup](/setup/setup.md
 > Fabric is **not** currently available in Microsoft Non-prod / fdpo subscriptions
 
 > [!CAUTION]
-> F64 capacities are **£7,637.256 per month (UK South)[^1]**.  See the [Fabric Pricing page](https://azure.microsoft.com/en-us/pricing/details/microsoft-fabric/).  Scale down, **pause** or **delete** the Fabric Capacity after you have completed the lab.
+> Pay-as-you-go F64 capacities are **£7,637.256 per month (UK South)[^1]**.  See the [Fabric Pricing page](https://azure.microsoft.com/en-us/pricing/details/microsoft-fabric/).  Scale down, **pause** or **delete** the Fabric Capacity after you are done with the labs.
 
 
 ## Next
