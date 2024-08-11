@@ -10,7 +10,8 @@
 - budget to spend **~£130** for half-day Fabric F64 consumption
 
 
-> [!TIP] Use Microsoft Edge Profiles to manage external subscriptions.  Switch off Automated Profile Switching for that profile only.
+> [!TIP] 
+> Use Microsoft Edge Profiles to manage external subscriptions.  Switch off Automated Profile Switching for that profile only.
 
 ## Next
 [Setup](/setup/setup.md)
