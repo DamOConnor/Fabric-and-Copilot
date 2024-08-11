@@ -1,19 +1,19 @@
-# Lab 05 - Copilot in Fabric consumption
+# Lab 05 - Copilot for Power BI
 
 ## Introduction
-This page contains information on how the Fabric Copilot usage is billed and reported. Copilot usage is measured by the number of tokens processed. Tokens can be thought of as pieces of words. Approximately 1,000 tokens are about 750 words. Prices are calculated per 1,000 tokens, and input and output tokens are consumed at different rates.
+Power BI has introduced generative AI that allows you to create reports automatically by selecting the topic for a report or by prompting Copilot for Power BI on a particular topic. You can use Copilot for Power BI to generate a summary for the report page that you just created, and generate synonyms for better Q&A capabilities.
+
+See the article Overview of Copilot for Power BI for details of the features and how to use Copilot for Power BI.
 
 ## Lab
 !!TODO
 > [!CAUTION]
 > Work in progress
 
-- Install Fabric Capacity Metrics app
+## Next
+[Lab 06 - Copilot in Fabric consumption](/labs/lab06/lab06.md)
 
 ## Links
-- https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-consumption
-- https://learn.microsoft.com/en-us/fabric/enterprise/metrics-app-compute-page
+- https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction
 
 
-## Next
-[Lab 06 - Copilot for Power BI](/labs/lab06/lab06.md)

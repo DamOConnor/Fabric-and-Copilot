@@ -15,6 +15,8 @@
 
 ## 2. Connect to lab repo
 !!TODO
+- Azure DevOps instructions
+- Github instructions
 
 ## 3. Run notebooks to import data
 !!TODO
