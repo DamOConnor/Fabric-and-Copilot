@@ -23,13 +23,13 @@ Labs for Fabric workloads and Copilot
 
 > Copilot and other generative AI features in preview bring new ways to transform and analyze data, generate insights, and create visualizations and reports in Microsoft Fabric and Power BI.[^1]
 
-This set of introductory labs will take you through the various Fabric and Copilot experiences aligned to the workloads:
+This set of introductory labs will take you through the various Fabric and Copilot experiences aligned to the workloads otherwise known as personas:
 - Data Factory
 - Data Science and Data Engineering
 - Data Warehouse
 - Real-time Analytics
 - Power BI
-- plus the Fabric Consumption Copilot
+- plus monitor Copilot consumption in Fabric
 
 ![Fabric Workloads](/images/fabricworkloads.png)
 
