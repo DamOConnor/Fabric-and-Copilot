@@ -1,5 +1,8 @@
 # Lab 06 - Monitor Copilot consumption in Fabric 
 
+![Metrics App](/images/fabric-cross-filter.gif)
+![Copilot](/images/copilot.svg)
+
 > [!NOTE]
 > This lab is about monitoring Copilot consumption in Fabric using the Microsoft Fabric capacity metrics app.  There is not currently a Copilot which assists you monitor consumption in Fabric.
 

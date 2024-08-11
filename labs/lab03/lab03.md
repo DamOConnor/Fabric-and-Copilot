@@ -1,5 +1,8 @@
 # Lab 03 - Copilot for Data Warehouse
 
+![Data Warehouse](/images/datawarehouse.svg)
+![Copilot](/images/copilot.svg)
+
 ## Introduction
 > Microsoft Copilot for Synapse Data Warehouse is an AI assistant designed to streamline your data warehousing tasks. Copilot integrates seamlessly with your Fabric warehouse, providing intelligent insights to help you along each step of the way in your T-SQL explorations.[^1]
 

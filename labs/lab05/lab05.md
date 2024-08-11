@@ -1,5 +1,8 @@
 # Lab 05 - Copilot for Power BI
 
+![Power BI](/images/powerbi.svg)
+![Copilot](/images/copilot.svg)
+
 ## Introduction
 > Power BI has introduced generative AI that allows you to create reports automatically by selecting the topic for a report or by prompting Copilot for Power BI on a particular topic. You can use Copilot for Power BI to generate a summary for the report page that you just created, and generate synonyms for better Q&A capabilities.[^1]
 

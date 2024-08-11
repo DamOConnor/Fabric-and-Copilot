@@ -1,5 +1,8 @@
 # Lab 04 - Copilot for Real-Time Intelligence
 
+![Real-time Intelligence](/images/realtimeanalytics.svg)
+![Copilot](/images/copilot.svg)
+
 ## Introduction
 > Copilot for Real-Time Intelligence is an advanced AI tool designed to help you explore your data and extract valuable insights. You can input questions about your data, which are then automatically translated into Kusto Query Language (KQL) queries. Copilot streamlines the process of analyzing data for both experienced KQL users and citizen data scientists.[^1]
 
