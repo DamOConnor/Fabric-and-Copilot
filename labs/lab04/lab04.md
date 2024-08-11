@@ -14,7 +14,7 @@
 > This lab has not been created yet.  Please move to the next lab.
 
 ## Next
-[Lab 05 - Copilot in Fabric consumption](/labs/lab05/lab05.md)
+[Lab 05 - Copilot for Power BI](/labs/lab05/lab05.md)
 
 ## Links
 - https://learn.microsoft.com/en-us/fabric/get-started/copilot-real-time-intelligence

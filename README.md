@@ -12,12 +12,12 @@ Labs for Fabric workloads and Copilot
 - [Prerequisites](/prerequisites/prerequisites.md)
 - [Setup](/setup/setup.md)
 - [Lab 01 - Copilot for Data Factory](/labs/lab01/lab01.md)
-- [Lab 02 - Copilot for Data Science and Data Engineering](/labs/lab02/lab02.md)
-- [Lab 03 - Copilot for Data Warehouse](/labs/lab03/lab03.md)
-- ~~[Lab 04 - Copilot for Real-Time Intelligence]~~
-- [Lab 05 - Copilot for Power BI](/labs/lab05/lab05.md)
+- [Lab 02 - Copilot for Data Science and Data Engineering (preview)](/labs/lab02/lab02.md)
+- [Lab 03 - Copilot for Data Warehouse (preview)](/labs/lab03/lab03.md)
+- ~~[Lab 04 - Copilot for Real-Time Intelligence](/labs/lab04/lab04.md)~~
+- ~~[Lab 05 - Copilot for Power BI](/labs/lab05/lab05.md)~~
 - [Lab 06 - Monitor Copilot consumption in Fabric](/labs/lab06/lab06.md)
-- [Links](links//links.md)
+- [Links](links/links.md)
 
 ## Introduction
 

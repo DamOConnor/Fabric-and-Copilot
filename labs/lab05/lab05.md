@@ -10,6 +10,11 @@
 > [!CAUTION]
 > This lab has not been created yet.  Please move to the next lab.
 
+This lab will use Copilot to create Power BI reports.
+
+1. !!TODO
+2. ...
+
 ## Discussion
 - Was Copilot useful in this lab?
 - What other prompts did you try?

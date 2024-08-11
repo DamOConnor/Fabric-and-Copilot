@@ -20,6 +20,9 @@ These are the prerequisites for this lab:
 ## Copilot integration
 ![Copilot Integration](/images/copilotintegration.png)
 
+## Discussion
+- Which persona or workload is missing here and why?
+
 ## Next
 [Setup](/setup/setup.md)
 
