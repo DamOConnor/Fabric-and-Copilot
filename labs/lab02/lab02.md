@@ -10,6 +10,11 @@
 ## Lab
 > [!CAUTION]
 > This lab has not been created yet.  Please move to the next lab.
+1. Enable Copilot chat magics
+2. Try chat magic
+3. Try code magic
+4. Try fix magic
+5. Try explain magic
 
 ## Discussion
 - Was Copilot useful in this lab?

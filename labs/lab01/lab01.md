@@ -9,20 +9,20 @@
 ## Lab
 > [!CAUTION]
 > This lab has not been created yet.  Please move to the next lab.
-- Click on the Power BI icon in the bottom left-hand corner.
-- Select **Data Factory**:
+1. Click on the Power BI icon in the bottom left-hand corner.
+2. Select **Data Factory**:
 
 ![Data Factory Persona](/labs/lab01/images/datafactorypersona.png)
-- You will be presented with the artefacts that can be created in the Data Factory persona.
-- Select **Dataflow Gen2**:
+3. You will be presented with the artefacts that can be created in the Data Factory persona.
+4. Select **Dataflow Gen2**:
 
 ![New Dataflow Gen2](/labs/lab01/images/newdataflowgen2.png)
-- This will take you into the main Dataflow Gen 2 design canvas.  Click the **Copilot** button:
+5. This will take you into the main Dataflow Gen 2 design canvas.  Click the **Copilot** button:
 
 ![Dataflow Gen 2 Design Canvas](/labs/lab01/images/dfg2mainscreen.png)
-- Then click **Get Data**:
+6. Then click **Get Data**:
 
-- Try the following prompts:
+7. Try the following prompts:
   - ...
   - ...
   - ...

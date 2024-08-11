@@ -37,7 +37,7 @@ This set of introductory labs will take you through the various Fabric and Copil
 The [Prerequisites](/prerequisites/prerequisites.md) and [Setup](/setup/setup.md) sections are mandatory.  Otherwise the labs can be completed in any order.
 
 > [!IMPORTANT]
-> Copilot requires an **F64** or above Fabric capacity
+> Copilot requires a paid SKU (**F64** or higher, or P1 or higher) 
 
 > [!IMPORTANT]
 > Copilot is **not** available in Fabric trial  capacities

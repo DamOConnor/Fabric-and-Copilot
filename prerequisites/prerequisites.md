@@ -11,6 +11,8 @@ These are the prerequisites for this lab:
   - scaled to **F64**[^1]
 - budget to spend **~£130** for half-day Fabric F64 consumption
 - [Enable Copilot in Fabric](https://learn.microsoft.com/en-us/fabric/get-started/copilot-enable-fabric) if required
+- [Enable Git integration for Fabric workspaces](https://learn.microsoft.com/en-us/fabric/cicd/git-integration/git-get-started?tabs=azure-devops%2CAzure%2Ccommit-to-git):
+  - From Fabric Homepage > Settings > Admin portal
 
 > [!TIP]
 > Use [Microsoft Edge Profiles](https://www.microsoft.com/en-us/edge/learning-center/how-to-add-new-profiles?msockid=20f67ee92a346c49015f6f1a2e346a21&form=MA13I2) to manage external Azure subscriptions[^2]
