@@ -15,10 +15,16 @@
   - if this is **not** your first time signing into Fabric you might see the Power BI icon instead
 - Click on the **Microsoft Fabric** icon in the bottom left-hand corner, then click **Power BI**:
 ![Fabric Home](/images/fabrichome.png)
-- Click on **Workspaces** and then **New workspace**
+- Click on **Workspaces** and then **New workspace**:
 ![New workspace](/images/newworkspace.png)
-- Name it
-  - make sure it is connected to an **F64** or above Fabric 
+- Give the workspace a unique name
+- Ensure the workspace is connected to the F64 (or above) Fabric Capacity:
+  - Click **Advanced**, then **Fabric capacity**:
+![Fabric Capacity](/images/fabriccapacity.png)
+  - Select your capacity from the dropdown
+
+> [!NOTE]
+> If **Fabric Capacity** is grayed out, your F64 capacity may be paused, or you may not have access to it.
 
 ## 2. Connect to lab repo
 !!TODO
