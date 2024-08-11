@@ -46,8 +46,10 @@ The [Prerequisites](/prerequisites/prerequisites.md) and [Setup](/setup/setup.md
 > Fabric is **not** currently available in Microsoft Non-prod / fdpo subscriptions
 
 > [!CAUTION]
-> F64 capacities are **£7,637.256 per month**.  See the [Fabric Pricing page](https://azure.microsoft.com/en-us/pricing/details/microsoft-fabric/).  Scale down, **pause** or **delete** the Fabric Capacity after you have completed the lab.
+> F64 capacities are **£7,637.256 per month (UK South)[^1]**.  See the [Fabric Pricing page](https://azure.microsoft.com/en-us/pricing/details/microsoft-fabric/).  Scale down, **pause** or **delete** the Fabric Capacity after you have completed the lab.
 
 
 ## Next
 [Prerequisites](/prerequisites/prerequisites.md)
+
+[^1]: Information correct as at 11th August 2024.  See [Fabric Pricing page](https://azure.microsoft.com/en-us/pricing/details/microsoft-fabric/).
