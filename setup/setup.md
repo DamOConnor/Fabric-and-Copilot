@@ -10,7 +10,11 @@
 5. [Proceed to Lab 01](#5-proceed-to-lab-01)
 
 ## 1. Create a Fabric workspace
-!!TODO
+- Go to https://app.fabric.microsoft.com/ in your external subscription
+- Click on **Home**
+- Click on **Create new workspace**
+-- 
+
   - make sure it is connected to an **F64** or above Fabric 
 
 ## 2. Connect to lab repo
