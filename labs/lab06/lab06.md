@@ -4,10 +4,8 @@
 > This lab is about monitoring Copilot consumption in Fabric using the Microsoft Fabric capacity metrics app.  There is not currently a Copilot which assists you monitor consumption in Fabric.
 
 ## Introduction
-> Fabric resides on a capacity which is a pool of resources allocated to your platform. Each capacity has its own number of Capacity Units (CU). CUs are used to measure the compute power available for your capacity.
-
-The Microsoft Fabric Capacity Metrics app is designed to provide monitoring capabilities for Microsoft Fabric capacities. Use the app to monitor your capacity consumption and make informed decisions on how to use your capacity resources. For example, the app can help identify when to scale up your capacity or when to turn on autoscale.
-
+> Fabric resides on a capacity which is a pool of resources allocated to your platform. Each capacity has its own number of Capacity Units (CU). CUs are used to measure the compute power available for your capacity.  
+The Microsoft Fabric Capacity Metrics app is designed to provide monitoring capabilities for Microsoft Fabric capacities. Use the app to monitor your capacity consumption and make informed decisions on how to use your capacity resources. For example, the app can help identify when to scale up your capacity or when to turn on autoscale.  
 The app is updated often with new features and functionalities and provides the most in-depth information into how your capacities are performing.[^1]
 
 ## Lab
@@ -32,6 +30,10 @@ https://learn.microsoft.com/en-us/fabric/enterprise/metrics-app-install?tabs=1st
 
 ## 5. Metrics app calculations
 - Review the notes in the main metrics app calculations page: https://learn.microsoft.com/en-us/fabric/enterprise/metrics-app-calculations
+
+## Discussion
+- Was it useful to review the Fabric Metric app consumption?
+- How did Copilot usage show up in the metrics app?
 
 ## Next
 [Home](/README.md)

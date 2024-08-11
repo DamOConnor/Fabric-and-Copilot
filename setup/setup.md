@@ -24,7 +24,7 @@
   - Select your capacity from the dropdown
 
 > [!NOTE]
-> If **Fabric Capacity** is grayed out, your F64 capacity may be paused, or you may not have access to it.
+> If **Fabric Capacity** is grayed out, your F64 capacity may be paused, or you may not have access to it.  Check your capacity status and refresh the browser window if required
 
 ## 2. Connect to lab repo
 !!TODO

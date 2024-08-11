@@ -7,9 +7,8 @@
 > This feature is in preview.
 
 ## Lab
-!!TODO
 > [!CAUTION]
-> Work in progress
+> This lab has not been created yet.  Please move to the next lab.
 
 ## Next
 [Lab 05 - Copilot in Fabric consumption](/labs/lab05/lab05.md)
