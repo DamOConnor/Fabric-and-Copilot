@@ -44,7 +44,6 @@ Filter from year 2000 onwards
 
 ![Get Data](/labs/lab01/images/appliedsteps.png)
 
-
 > [!IMPORTANT]
 > If you receive the following error, enable the *Data Sent to Azure OpenAI can be processed outside your capacity's geographic region, compiance boundary or national cloud instance* option  in the Admin portal:  
 > "You can't use Copilot in this workspace because its capacity is located ouside your tenant's region"
@@ -60,9 +59,25 @@ Save the data to a table called ukpublicholidays
 
 9. Manually add a data destination which is the current Lakehouse and a table called `ukpublicholidays`.
 
-10. Click **Publish**.
+![Add Data Destination](/labs/lab01/images/datadestination.png)
 
-11. Review the [Limitations of Copilot for Data Factory](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-data-factory#limitations-of-copilot-for-data-factory) article.
+- Click **Next** then **Save settings**.
+
+
+10. Enter the following prompt:
+
+```
+Describe the existing queries
+```
+
+- Review the output
+
+11. Click **Publish**.
+- The dataflow will take several minutes to publish and then run.  When it has finished, inspect the new table in the Lakehouse:
+
+![UK Public Holidays](/labs/lab01/images/ukpublicholidays.png)
+
+12. Review the [Limitations of Copilot for Data Factory](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-data-factory#limitations-of-copilot-for-data-factory) article.
 
 ## Discussion
 - Was Copilot useful in this lab?
