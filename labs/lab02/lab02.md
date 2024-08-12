@@ -21,7 +21,7 @@ This lab will create a Notebook in the Data Engineering experience and use Copil
 Optionally change the name of the notebook to something meaningful using the gear icon in the top left-hand corner.
 
 3. Attach the Lakehouse
-Attach the Lakehouse created in Setup by clicking on the **Add Lakehouse** button
+- Attach the Lakehouse created in Setup by clicking on the **Add Lakehouse** button
 
 4. Click the **Copilot** button and then the **Get Started** button on the right-hand side.
 
