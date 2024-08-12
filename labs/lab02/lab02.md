@@ -91,14 +91,14 @@ display(df_ukpublicholidays)
 - fix errors in a cell
 13. Try the `%%translate` magic
 - translate code from one language to another
-- use the ? to get help on any chat magic
+- use the `?` to get help on any chat magic
 
 - Enter the following in a code cell:
-- Correct the lakehouse name to your lakehouse name
+- Correct the lakehouse name to your lakehouse name, eg lh_copilot_lab
 
 ```
 %%translate?
-df = spark.sql("SELECT * FROM lh_copilotlab.ukpublicholidays LIMIT 1000")
+df = spark.sql("SELECT * FROM <your lakehouse>.ukpublicholidays LIMIT 1000")
 display(df)
 ```
 
