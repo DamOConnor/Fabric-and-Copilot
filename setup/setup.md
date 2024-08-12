@@ -1,11 +1,9 @@
 # Setup
-
-> [!CAUTION]
-> !!TODO Work in progress
+Complete setup actions for the labs in this section.
 
 1. [Create a Fabric workspace](#1-create-a-fabric-workspace)
 2. [Create a Lakehouse](#2-create-a-lakehouse)
-3. [Run notebooks to import data](#3-run-notebooks-to-import-data)
+3. [Load Sample Data](#3-load-sample-data)
 4. [Check the data has been imported correctly](#4-check-the-data-has-been-imported-correctly)
 5. [Proceed to Lab 01](#5-proceed-to-lab-01)
 
@@ -34,11 +32,11 @@
 
 ![Data Engineering persona](/setup/images/dataengineeringpersona.png)
 
-- Create a new Lakehouse for the lab by clicking on the large Lakehouse button in the 'Recommended items to create' section:
+- Create a new Lakehouse for the lab by clicking on the large **Lakehouse** button in the 'Recommended items to create' section:
 
 ![Lakehouse Button](/setup/images/lakehousebutton.png)
 
-- Give it a unique name.  Do **not** enable the **Lakehouse Schemas (Public) Preview** option at this point.
+- Give it a unique name.  Do **not** enable the **Lakehouse schemas (Public Preview)** option at this point:
 
 ![Data Engineering persona](/setup/images/newlakehouse.png)
 

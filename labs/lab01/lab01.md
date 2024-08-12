@@ -14,7 +14,7 @@ This lab will create a Dataflow Gen2 pipeline and use Copilot to add activities 
 
 ![Data Factory Persona](/labs/lab01/images/datafactorypersona.png)
 
-3. You will be presented with the artefacts that can be created in the Data Factory persona.
+3. You will be presented with the artefacts that can be created in the Data Factory persona including Dataflow Gen2 and Data Pipelines.
 4. Select **Dataflow Gen2**:
 
 ![New Dataflow Gen2](/labs/lab01/images/newdataflowgen2.png)
@@ -23,13 +23,25 @@ This lab will create a Dataflow Gen2 pipeline and use Copilot to add activities 
 
 ![Dataflow Gen 2 Design Canvas](/labs/lab01/images/dfg2mainscreen.png)
 
-6. Then click **Get Data** and select only the `publicholidays` table.
+6. Then click **Get Data**, select the recently created Lakehouse from the 'OneLake data hub' section, then select only the `publicholidays` table:
+
+![Get Data](/labs/lab01/images/getdata.png)
+
+- Ignore all the system queries
+- Then click **Create**
 
 7. Enter the following prompt:
 
   ```
   Filter to only select data from United Kingdom
   ```
+
+
+> [!IMPORTANT]
+> If you receive the following error, enable the *Data Sent to Azure OpenAI can be processed outside your capacity's geographic region, compiance boundary or national cloud instance* option  in the Admin portal:  
+> "You can't use Copilot in this workspace because its capacity is located ouside your tenant's region"
+
+
 8. Enter the following prompt:
 
 ```
