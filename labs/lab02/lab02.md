@@ -14,15 +14,24 @@ This lab will create a Notebook in the Data Engineering experience and use Copil
 
 ![Data Engineering persona](/labs/lab02/images/dataengineeringpersona.png)
 
-2. Click the **Copilot** button and then the **Get Started** button on the right-hand side.
+2. Create a new Notebook by clicking the **Notebook** button:
+
+![New Notebook](/labs/lab02/images/newnotebook.png)
+
+Optionally change the name of the notebook to something meaningful using the gear icon in the top left-hand corner.
+
+3. Attach the Lakehouse
+Attach the Lakehouse created in Setup by clicking on the **Add Lakehouse** button
+
+4. Click the **Copilot** button and then the **Get Started** button on the right-hand side.
 
 ![Copilot Button](/labs/lab02/images/copilotbutton.png)
 
-3. This will add some code to the notebook and display sample prompts in the Copilot pane on the right-hand side:
+5. This will add some code to the notebook and display sample prompts in the Copilot pane on the right-hand side:
 
 ![Copilot Pane](/labs/lab02/images/copilotpane.png)
 
-4. Run the cell Copilot has added which contains the following code:
+6. Run the cell Copilot has added which contains the following code:
 
 ```Python
 #Run this cell to install the required packages for Copilot
@@ -39,21 +48,21 @@ When the code has completed it should display a screen like this with useful inf
 > [!TIP]
 > Chat magics are useful for interacting with Copilot in notebook cells.  You can still interact with Copilot using the Copilot pane and copy any suggestions into the notebook.
 
-5. Review the output document from the cell which enabled the chat magics starting `Chat_magic commands`.
-6. Try `%%chat` magic
+7. Review the output document from the cell which enabled the chat magics starting `Chat_magic commands`.
+8. Try `%%chat` magic
 - ask questions about your notebook state or let the chat-magics 
 help you understand or author it  
 !!TODO - add some code here which gives attendees something to do
 eg attach the Lakehouse and drag over one of the tables.  Run that cell.
-7. Try `%%code` magic
+9. Try `%%code` magic
 - generate code to work with or visualise your data
-8. Try `%%describe` magic
+10. Try `%%describe` magic
 - describe a loaded dataframe
-9. Try the `%%add_comments` magic
+11. Try the `%%add_comments` magic
 - add comments to the code in the cell
-10. Try the `%%fix_errors` magic
+12. Try the `%%fix_errors` magic
 - fix errors in a cell
-11. Try the `%%translate` magic
+13. Try the `%%translate` magic
 - translate code from one language to another
 
 ## Discussion

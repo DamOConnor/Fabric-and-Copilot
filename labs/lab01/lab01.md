@@ -23,12 +23,22 @@ This lab will create a Dataflow Gen2 pipeline and use Copilot to add activities 
 
 ![Dataflow Gen 2 Design Canvas](/labs/lab01/images/dfg2mainscreen.png)
 
-6. Then click **Get Data**:
+6. Then click **Get Data** and select only the `publicholidays` table.
 
-7. Try the following prompts:
-  - !!TODO - add some prompts here
-  - ...
-  - ...
+7. Enter the following prompt:
+
+  ```
+  Filter to only select data from United Kingdom
+  ```
+8. Enter the following prompt:
+
+```
+Save the data to a table called ukpublicholidays
+```
+
+9. Manually add a data destination which is the current Lakehouse and a table called `ukpublicholidays`.
+
+10. Click **Publish**.
 
 ## Discussion
 - Was Copilot useful in this lab?

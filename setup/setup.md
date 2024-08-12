@@ -4,7 +4,7 @@
 > !!TODO Work in progress
 
 1. [Create a Fabric workspace](#1-create-a-fabric-workspace)
-2. [Connect to lab repo](#2-connect-to-lab-repo)
+2. [Create a Lakehouse](#2-create-a-lakehouse)
 3. [Run notebooks to import data](#3-run-notebooks-to-import-data)
 4. [Check the data has been imported correctly](#4-check-the-data-has-been-imported-correctly)
 5. [Proceed to Lab 01](#5-proceed-to-lab-01)
@@ -26,19 +26,30 @@
 > [!NOTE]
 > If **Fabric Capacity** is grayed out, your F64 capacity may be paused, or you may not have access to it.  Check your capacity status and refresh the browser window if required
 
-## 2. Connect to lab repo
-!!TODO
-- Azure DevOps instructions
-- Github instructions
+## 2. Create a Lakehouse
+- Go to the **Data Engineering** persona:
 
-## 3. Run notebooks to import data
-!!TODO
+![Data Engineering persona](/setup/images/dataengineeringpersona.png)
+
+- Create a new Lakehouse for the lab.  Give it a unique name.  Do **not** enable the **Lakehouse Schemas (Public) Preview** option at this point.
+
+![Data Engineering persona](/setup/images/newlakehouse.png)
+
+- Click **Create** to create the Lakehouse in the current workspace
+
+## 3. Load sample data
+- Click **Start with sample data** to add sample data to the Lakehouse
+
+![Sample Data](/setup/images/sampledata.png)
+
+This can take a few minutes to run.  When the data has finished loading it should look like this:
+
+![Sample Data Loaded](/setup/images/sampledataloaded.png)
 
 ## 4. Check the data has been imported correctly
-!!TODO
+- Inspect the tables by clicking on them, eg `publicholidays`
 
 ## 5. Proceed to Lab 01
-
 
 ## Next
 [Lab 01 - Copilot for Data Factory](/labs/lab01/lab01.md)
