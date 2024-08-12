@@ -65,6 +65,9 @@ eg attach the Lakehouse and drag over one of the tables.  Run that cell.
 13. Try the `%%translate` magic
 - translate code from one language to another
 
+## Recap
+This lab used Copilot in the Data Engineering workflow to add powerufl chat magics to work data.
+
 ## Discussion
 - Which version of gpt is Copilot using here?
 - What's the difference between interacting using chat magics versus the Copilot pane?

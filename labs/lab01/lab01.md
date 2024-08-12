@@ -79,6 +79,9 @@ Describe the existing queries
 
 12. Review the [Limitations of Copilot for Data Factory](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-data-factory#limitations-of-copilot-for-data-factory) article.
 
+## Recap
+This lab used Copilot in Data Factory to add steps to a Dataflow Gen 2, filter the query and help explain the workflow.
+
 ## Discussion
 - Was Copilot useful in this lab?
 - What other prompts did you try?
