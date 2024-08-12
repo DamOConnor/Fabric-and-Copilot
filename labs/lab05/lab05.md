@@ -19,7 +19,7 @@ This lab will use Copilot to create Power BI reports.
 - Was Copilot useful in this lab?
 - What other prompts did you try?
 
-## Next
+## Next Steps
 [Lab 06 - Copilot in Fabric consumption](/labs/lab06/lab06.md)
 
 ## Links

@@ -44,7 +44,7 @@ Save the data to a table called ukpublicholidays
 - Was Copilot useful in this lab?
 - What other prompts did you try?
 
-## Next
+## Next Steps
 [Lab 02 - Copilot for Data Science and Data Engineering](/labs/lab02/lab02.md)
 
 ## Links

@@ -58,7 +58,7 @@ Suggest questions that I can ask about this warehouse.
 - Was Copilot useful in this lab?
 - What other prompts did you try?
 
-## Next
+## Next Steps
 ~~[Lab 04 - Copilot for Real-Time Intelligence](/labs/lab04/lab04.md)~~
 
 ## Links

@@ -21,17 +21,24 @@
 - Ensure the workspace is connected to the F64 (or above) Fabric Capacity:
   - Click **Advanced**, then **Fabric capacity**:
 ![Fabric Capacity](/images/fabriccapacity.png)
-  - Select your capacity from the dropdown
+
+- Select your capacity from the dropdown
+- Click **Apply** to create the workspace
 
 > [!NOTE]
-> If **Fabric Capacity** is grayed out, your F64 capacity may be paused, or you may not have access to it.  Check your capacity status and refresh the browser window if required
+> If the **Fabric capacity** is grayed out, your F64 capacity may be paused, or you may not have access to it.  Check your capacity status and refresh the browser window if required
+
 
 ## 2. Create a Lakehouse
 - Go to the **Data Engineering** persona:
 
 ![Data Engineering persona](/setup/images/dataengineeringpersona.png)
 
-- Create a new Lakehouse for the lab.  Give it a unique name.  Do **not** enable the **Lakehouse Schemas (Public) Preview** option at this point.
+- Create a new Lakehouse for the lab by clicking on the large Lakehouse button in the 'Recommended items to create' section:
+
+![Lakehouse Button](/setup/images/lakehousebutton.png)
+
+- Give it a unique name.  Do **not** enable the **Lakehouse Schemas (Public) Preview** option at this point.
 
 ![Data Engineering persona](/setup/images/newlakehouse.png)
 
@@ -51,7 +58,7 @@ This can take a few minutes to run.  When the data has finished loading it shoul
 
 ## 5. Proceed to Lab 01
 
-## Next
+## Next Steps
 [Lab 01 - Copilot for Data Factory](/labs/lab01/lab01.md)
 
 

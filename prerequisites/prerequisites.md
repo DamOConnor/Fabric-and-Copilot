@@ -23,7 +23,7 @@ These are the prerequisites for this lab:
 ## Discussion
 - Which persona or workload is missing here and why?
 
-## Next
+## Next Steps
 [Setup](/setup/setup.md)
 
 ## Links

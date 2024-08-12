@@ -38,7 +38,7 @@ https://learn.microsoft.com/en-us/fabric/enterprise/metrics-app-install?tabs=1st
 - Was it useful to review the Fabric Metric app consumption?
 - How did Copilot usage show up in the metrics app?
 
-## Next
+## Next Steps
 [Home](/README.md)
 
 ## Links

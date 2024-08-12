@@ -13,7 +13,7 @@
 > [!CAUTION]
 > This lab has not been created yet.  Please move to the next lab.
 
-## Next
+## Next Steps
 [Lab 05 - Copilot for Power BI](/labs/lab05/lab05.md)
 
 ## Links

@@ -49,7 +49,7 @@ The [Prerequisites](/prerequisites/prerequisites.md) and [Setup](/setup/setup.md
 > Pay-as-you-go F64 capacities are **£7,637.256 per month (UK South)[^2]**.  See the [Fabric Pricing page](https://azure.microsoft.com/en-us/pricing/details/microsoft-fabric/).  Scale down, **pause** or **delete** the Fabric Capacity after you are done with the labs.
 
 
-## Next
+## Next Steps
 [Prerequisites](/prerequisites/prerequisites.md)
 
 [^1]: https://learn.microsoft.com/en-us/fabric/get-started/copilot-enable-fabric

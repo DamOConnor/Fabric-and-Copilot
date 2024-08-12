@@ -71,7 +71,7 @@ eg attach the Lakehouse and drag over one of the tables.  Run that cell.
 - Was Copilot useful in this lab?
 - What other prompts did you try?
 
-## Next
+## Next Steps
 [Lab 03 - Copilot for Data Warehouse](/labs/lab03/lab03.md)
 
 ## Links
