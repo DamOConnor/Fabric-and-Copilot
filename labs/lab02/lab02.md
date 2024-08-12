@@ -102,6 +102,17 @@ df = spark.sql("SELECT * FROM lh_copilotlab.ukpublicholidays LIMIT 1000")
 display(df)
 ```
 
+- Enter the following in a code cell:
+```
+%%translate -lscala -fpython
+df = spark.sql("SELECT * FROM lh_copilotlab.ukpublicholidays LIMIT 1000")
+display(df)
+```
+This should output some Scala.  Add the `%%spark` magic to the cell and run it to test the new code.
+
+![Spark Magic](/labs/lab02/images/sparkmagic.png)
+
+
 ## Recap
 This lab used Copilot in the Data Engineering workflow to add powerful chat magics to work with data and code.
 
