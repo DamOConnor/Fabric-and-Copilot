@@ -30,11 +30,19 @@ This lab will create a Dataflow Gen2 pipeline and use Copilot to add activities 
 - Ignore all the system queries
 - Then click **Create**
 
-7. Enter the following prompt:
+7. Enter the following prompts:
 
-  ```
-  Filter to only select data from United Kingdom
-  ```
+```
+Filter to only select data from United Kingdom
+```
+
+```
+Filter from year 2000 onwards
+```
+
+- Inspect the code created by clicking the gear icon in the **Applied steps** section:
+
+![Get Data](/labs/lab01/images/appliedsteps.png)
 
 
 > [!IMPORTANT]
@@ -48,13 +56,18 @@ This lab will create a Dataflow Gen2 pipeline and use Copilot to add activities 
 Save the data to a table called ukpublicholidays
 ```
 
+- This step should fail.  Data destination cannot currently be added.
+
 9. Manually add a data destination which is the current Lakehouse and a table called `ukpublicholidays`.
 
 10. Click **Publish**.
 
+11. Review the [Limitations of Copilot for Data Factory](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-data-factory#limitations-of-copilot-for-data-factory) article.
+
 ## Discussion
 - Was Copilot useful in this lab?
 - What other prompts did you try?
+- What are the limitations of Copilot for Data Factory?
 
 ## Next Steps
 [Lab 02 - Copilot for Data Science and Data Engineering](/labs/lab02/lab02.md)
