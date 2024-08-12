@@ -19,6 +19,8 @@ This lab will create a Dataflow Gen2 pipeline and use Copilot to add activities 
 
 ![New Dataflow Gen2](/labs/lab01/images/newdataflowgen2.png)
 
+There is sometimes a short delay when clicking the button.
+
 5. This will take you into the main Dataflow Gen 2 design canvas.  Click the **Copilot** button:
 
 ![Dataflow Gen 2 Design Canvas](/labs/lab01/images/dfg2mainscreen.png)
@@ -30,15 +32,21 @@ This lab will create a Dataflow Gen2 pipeline and use Copilot to add activities 
 - Ignore all the system queries
 - Then click **Create**
 
-7. Enter the following prompts:
+7. Enter the following prompts in the *'Describe what you'd like to do'* section:
 
 ```
 Filter to only select data from United Kingdom
 ```
 
 ```
-Filter from year 2000 onwards
+Rename the date column to holidayDate
 ```
+
+```
+Explain this query
+```
+
+- Click the Send button (triangle icon) to send the prompts to Copilot.  It will display 'Working on it' while working.
 
 - Inspect the code created by clicking the gear icon in the **Applied steps** section:
 

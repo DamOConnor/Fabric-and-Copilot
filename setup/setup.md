@@ -12,12 +12,16 @@ Complete setup actions for the labs in this section.
   - if this is your first time using Fabric you may have to sign in using your external subscription admin email
   - if this is **not** your first time signing into Fabric you might see the Power BI icon instead
 - Click on the **Microsoft Fabric** icon in the bottom left-hand corner, then click **Power BI**:
+
 ![Fabric Home](/images/fabrichome.png)
+
 - Click on **Workspaces** and then **New workspace**:
+
 ![New workspace](/images/newworkspace.png)
 - Give the workspace a unique name
 - Ensure the workspace is connected to the F64 (or above) Fabric Capacity:
   - Click **Advanced**, then **Fabric capacity**:
+
 ![Fabric Capacity](/images/fabriccapacity.png)
 
 - Select your capacity from the dropdown
