@@ -21,7 +21,7 @@ This lab will create a Notebook in the Data Engineering experience and use Copil
 Optionally change the name of the notebook to something meaningful using the gear icon in the top left-hand corner.
 
 3. Attach the Lakehouse
-- Attach the Lakehouse created in Setup by clicking on the **Add Lakehouse** button
+- Attach the Lakehouse created in Setup by clicking on the **Lakehouses** > **Add Lakehouse** button.  Add the existing Lakehouse created in Setup.
 
 4. Click the **Copilot** button and then the **Get Started** button on the right-hand side.
 
@@ -52,21 +52,58 @@ When the code has completed it should display a screen like this with useful inf
 8. Try `%%chat` magic
 - ask questions about your notebook state or let the chat-magics 
 help you understand or author it  
-!!TODO - add some code here which gives attendees something to do
-eg attach the Lakehouse and drag over one of the tables.  Run that cell.
+
+- Enter the following in a code cell:
+```
+%%chat
+Tell me about this lakehouse
+```
+
 9. Try `%%code` magic
-- generate code to work with or visualise your data
-10. Try `%%describe` magic
-- describe a loaded dataframe
+- generates code to work with or visualise your data
+
+- Enter the following in a code cell:
+```
+%%code
+Get the data from ukpublicholidays into a dataframe
+```
+
+10. Try `%describe` magic
+- describes a loaded dataframe
+
+- Enter the following in a code cell:
+```
+%describe
+df_ukpublicholidays
+```
+
 11. Try the `%%add_comments` magic
 - add comments to the code in the cell
+
+- Enter the following in a code cell:
+
+```
+%%add_comments
+display(df_ukpublicholidays)
+```
+
 12. Try the `%%fix_errors` magic
 - fix errors in a cell
 13. Try the `%%translate` magic
 - translate code from one language to another
+- use the ? to get help on any chat magic
+
+- Enter the following in a code cell:
+- Correct the lakehouse name to your lakehouse name
+
+```
+%%translate?
+df = spark.sql("SELECT * FROM lh_copilotlab.ukpublicholidays LIMIT 1000")
+display(df)
+```
 
 ## Recap
-This lab used Copilot in the Data Engineering workflow to add powerufl chat magics to work data.
+This lab used Copilot in the Data Engineering workflow to add powerful chat magics to work with data and code.
 
 ## Discussion
 - Which version of gpt is Copilot using here?
